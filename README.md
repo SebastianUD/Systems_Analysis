@@ -1,6 +1,6 @@
 # Systems Analysis
 
-University Distrital Francisco Jose de Caldas
+University Distrital Francisco Jose de Caldas.
 Sebastian Pardo - 20221020121
 
 This repository is designed to introduce to foundations of 
